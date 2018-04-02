@@ -1,0 +1,7 @@
+.idea/*
+/.idea/
+/MS*/
+!/mspatch/
+/tmp/
+
+*.pyc
